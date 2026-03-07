@@ -1,0 +1,9 @@
+{
+  "name": "chainletter-verification",
+  "description": "Verification proof for EarlyChainLetter10ETH - one of the earliest investment contracts on Ethereum",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "solc": "^0.8.34"
+  }
+}
